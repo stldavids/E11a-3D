@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fenceLowBroken.obj-b7f986663a778fc8f33564025d4feb83.mesh"
+
+[deps]
+
+files=[ "res://.import/fenceLowBroken.obj-b7f986663a778fc8f33564025d4feb83.mesh" ]
+
+source_file="res://kenney_platformerkit/Models/OBJ format/fenceLowBroken.obj"
+dest_files=[ "res://.import/fenceLowBroken.obj-b7f986663a778fc8f33564025d4feb83.mesh", "res://.import/fenceLowBroken.obj-b7f986663a778fc8f33564025d4feb83.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

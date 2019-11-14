@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/button.obj-341cad38a524fe17a4c98241eae51855.mesh"
+
+[deps]
+
+files=[ "res://.import/button.obj-341cad38a524fe17a4c98241eae51855.mesh" ]
+
+source_file="res://kenney_platformerkit/Models/OBJ format/button.obj"
+dest_files=[ "res://.import/button.obj-341cad38a524fe17a4c98241eae51855.mesh", "res://.import/button.obj-341cad38a524fe17a4c98241eae51855.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

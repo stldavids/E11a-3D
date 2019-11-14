@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/spikesHidden.obj-20a3ba3818a94b978ca9b803eb924461.mesh"
+
+[deps]
+
+files=[ "res://.import/spikesHidden.obj-20a3ba3818a94b978ca9b803eb924461.mesh" ]
+
+source_file="res://kenney_platformerkit/Models/OBJ format/spikesHidden.obj"
+dest_files=[ "res://.import/spikesHidden.obj-20a3ba3818a94b978ca9b803eb924461.mesh", "res://.import/spikesHidden.obj-20a3ba3818a94b978ca9b803eb924461.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
